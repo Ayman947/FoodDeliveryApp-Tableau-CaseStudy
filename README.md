@@ -2,6 +2,7 @@
 
 
 ## **Business Background** 
+
     - <u>DEBI</u> is a <u>start-up food delivery application</u> that started operating.
     - <u>Users</u> can make <u>orders</u> via the application to get food from a variety of different cuisines <u>restaurants</u>. 
     - Generally, across all business, there is an <u>ultimate sought-after</u> goal which is <u>maximizing profits</u>. 
@@ -10,11 +11,13 @@
     
 
 ## **Business Objectives**
+
     - Specifically, DEBI needs to <u>increase the number of delivered orders to increase its profits</u>.
     - Generally, DEBI's <u>performance</u> needs to be <u>improved</u> from different <u>managerial perspectives</u>.
 
 
 ## **Questions** 
+
      1. Does the number of <u>monthly delivered orders meet our target</u>?
      2. What is the <u>regional performance</u> of our app?
      3. Which <u>cuisines</u> our App users prefer?
@@ -24,6 +27,7 @@
 
 
 ## **Analytics Solutions / Methodologies**
+
     - Building <u>tableau visualizations</u> to get insights into DEBI's business performance.
     - Providing business users and managments with data-driven business recommendation to enhance DEBI's business performance.
 
