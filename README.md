@@ -17,12 +17,12 @@
 
 ## **Questions** 
 
-    1. Does the number of <u>monthly delivered orders meet our target</u>?
-    2. What is the <u>regional performance</u> of our app?
-    3. Which <u>cuisines</u> our App users prefer?
-    4. What is our users' <u>ordering behaviour</u>?
-    5. How do users <u>pay</u> for their orders?
-    6. How do users <u>rate</u> the app? <u>Why</u>? How to <u>improve</u> the rating?
+   1. Does the number of <u>monthly delivered orders meet our target</u>?
+   2. What is the <u>regional performance</u> of our app?
+   3. Which <u>cuisines</u> our App users prefer?
+   4. What is our users' <u>ordering behaviour</u>?
+   5. How do users <u>pay</u> for their orders?
+   6. How do users <u>rate</u> the app? <u>Why</u>? How to <u>improve</u> the rating?
 
 
 ## **Analytics Solutions / Methodologies**
