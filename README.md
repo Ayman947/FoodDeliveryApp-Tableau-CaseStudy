@@ -4,7 +4,7 @@
 ## **Business Background** 
 
    - <u>DEBI</u> is a <u>start-up food delivery app</u> where <u>users</u> can make <u>orders</u> to get food from different cuisines and <u>restaurants</u>. 
-   - Generally, across all business, there is an <u>ultimate sought-after</u> goal which is <u>maximizing profits</u>. 
+   - Generally, across all businesses, there is an <u>ultimate sought-after</u> goal which is <u>maximizing profits</u>. 
    - According to DEBI’s business model, its <u>main and direct source</u> of <u>profits</u> is <u>commission</u> on the delivered orders. 
    - Like any other business, DEBI needs to maximize its profits. 
     
