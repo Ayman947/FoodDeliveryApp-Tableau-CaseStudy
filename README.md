@@ -58,8 +58,12 @@
 
 ## **Final Results**
 
-![3d RFM Clusters](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-3d-rfm.PNG)
-
+![Delivered Orders Trends](https://github.com/Ayman947/FoodDeliveryApp-Tableau-CaseStudy/blob/main/Insights/01%20Delivered%20Orders%20Trends.PNG)
+![Regional Performance](https://github.com/Ayman947/FoodDeliveryApp-Tableau-CaseStudy/blob/main/Insights/02%20Regional%20Performance.PNG)
+![Cuisines Performance](https://github.com/Ayman947/FoodDeliveryApp-Tableau-CaseStudy/blob/main/Insights/03%20Cuisines%20Performance.PNG)
+![Ordering Behaviors](https://github.com/Ayman947/FoodDeliveryApp-Tableau-CaseStudy/blob/main/Insights/04%20Ordering%20Behaviors.PNG)
+![Payment Methods](https://github.com/Ayman947/FoodDeliveryApp-Tableau-CaseStudy/blob/main/Insights/05%20Payment%20Methods.PNG)
+![App Rating](https://github.com/Ayman947/FoodDeliveryApp-Tableau-CaseStudy/blob/main/Insights/06%20App.%20Ratings.PNG)
 
 ## **Recommendations Summary**
    - The <u>marketing team</u> may launch a campaign promoting our application in the form of <u>promo codes and discount vouchers</u> as an incentive for users to order make more orders in the <u>less active regions</u>.
