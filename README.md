@@ -1,17 +1,21 @@
 # **Applying Business Analytics for Enhancing Food Delivery App. Performance Using Tableau**
 
+## **Background** 
+
+  - XYZ is an Egyptian <u>online retail</u> start-up where the <u>marketing</u> team needs to run marketing more <u>effectively yet efficiently</u>. As a start-up, its performance is acceptable, however, it can perform rather better once the <u>problems</u> they face got solved.
+
 
 ## **Business Background** 
 
-    - <u>DEBI</u> is a <u>start-up food delivery application</u> that started operating.
+   - <u>DEBI</u> is a <u>start-up food delivery application</u> that started operating.
     
-    - <u>Users</u> can make <u>orders</u> via the application to get food from a variety of different cuisines <u>restaurants</u>. 
+   - <u>Users</u> can make <u>orders</u> via the application to get food from a variety of different cuisines <u>restaurants</u>. 
     
-    - Generally, across all business, there is an <u>ultimate sought-after</u> goal which is <u>maximizing profits</u>. 
+   - Generally, across all business, there is an <u>ultimate sought-after</u> goal which is <u>maximizing profits</u>. 
     
-    - According to DEBI’s business model, its <u>main and direct source</u> of <u>profits</u> is a <u>commission</u> on the delivered orders. 
+   - According to DEBI’s business model, its <u>main and direct source</u> of <u>profits</u> is a <u>commission</u> on the delivered orders. 
     
-    - Like any other business, DEBI needs to maximize its profits. 
+   - Like any other business, DEBI needs to maximize its profits. 
     
 
 ## **Business Objectives**
