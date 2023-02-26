@@ -36,8 +36,8 @@
 - **About:** users have used DEBI app to enjoy food and drinks from their homes just by placing orders via the app from any desired restaurant. This dataset describes the delivered orders since DEBI started operating. It’s extracted from DEBI's transactional orders database.   
 
 - **Data Collection**
-   - Using a SQL query to extract data from DEBI’s data warehouse (DWH) in the form of a CSV file. (i.e. orders - Restaurants) in the form of a CSV file. 
-   - Using a shape file (.shp) holding regions and their names. 
+   1. Using a SQL query to extract data from DEBI’s data warehouse (DWH) in the form of a CSV file. (i.e. orders - Restaurants) in the form of a CSV file. 
+   2. Using a shape file (.shp) holding regions and their names. 
 
 - **Data Dictionary:**
 
