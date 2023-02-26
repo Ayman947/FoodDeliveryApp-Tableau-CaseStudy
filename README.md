@@ -1,4 +1,4 @@
-# **Applying Business Analytics for Enhancing Food Delivery App. Performance Using Tableau**
+# **Enhancing Food Delivery App. Performance Using Tableau**
 
 
 ## **Business Background** 
