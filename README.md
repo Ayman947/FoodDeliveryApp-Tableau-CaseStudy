@@ -68,8 +68,8 @@
 ## **Recommendations Summary**
    - The <u>marketing team</u> may launch a campaign promoting our application in the form of <u>promo codes and discount vouchers</u> as an incentive for users to order make more orders in the <u>less active regions</u>.
    - The <u>public relations (PR) team</u> may deal with <u>restaurants of our users' preferred cuisines</u> to add more varieties  to our app users.
-   - The <u>supply team</u> is highly recommended to make sure of <u>delivery men availability at rush hours</u> to meet our users' <u>demand and increase the fullfillment rate</u>.
+   - The <u>supply team</u> is highly recommended to make sure of <u>delivery men availability at rush hours</u> to meet our users' <u>demand and increase the fulfillment rate</u>.
    - The <u>finance team</u> is recommended to improve <u>credit payment facilities and security</u>.
-   -  Both <u>finance and supply teams</u> have to implement a new strategy to <u>decrease the delivery time and increase users' rating</u>.
+   -  Both <u>finance and supply teams</u> have to implement a new strategy to <u>decrease the delivery time and increase users' ratings</u>.
 
 > Consequently, these recommendations  will help in increasing the <u>number of monthly delivered orders</u> to meet or even exceed the <u>100k monthly delivered orders target threshold</u>.
