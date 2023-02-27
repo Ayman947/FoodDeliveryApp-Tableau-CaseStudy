@@ -19,8 +19,8 @@
 
    1. Does the number of <u>monthly delivered orders meet our target</u>?
    2. What is the <u>regional performance</u> of our app?
-   3. Which <u>cuisines</u> our App users prefer?
-   4. What is our users' <u>ordering behaviour</u>?
+   3. Which <u>cuisines</u> do our App users prefer?
+   4. What is our users' <u>ordering behavior</u>?
    5. How do users <u>pay</u> for their orders?
    6. How do users <u>rate</u> the app? <u>Why</u>? How to <u>improve</u> the rating?
 
@@ -28,7 +28,7 @@
 ## **Analytics Solutions / Methodologies**
 
    - Building <u>tableau visualizations</u> to get insights into DEBI's business performance.
-   - Providing business users and managments with data-driven business recommendation to enhance DEBI's business performance.
+   - Providing business users and managment with data-driven business recommendations to enhance DEBI's business performance.
 
 
 ## **Data Sources**
